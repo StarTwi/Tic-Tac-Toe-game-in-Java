@@ -25,3 +25,6 @@ StarTwi/snake-game-made-in-java
 |   ├── .gitignore
 |   ├── Contribute.md
 ```
+# Screenshots and Recordings
+
+https://streamable.com/rsk8j8
