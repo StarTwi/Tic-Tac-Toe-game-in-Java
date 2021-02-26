@@ -15,7 +15,8 @@ Hope you contribute, check our contributing guidelines for a bit more informatio
 
 
 # File Tree
-StarTwi/Tic-Tac-Toe-game-in-Java
+```text
+StarTwi/snake-game-made-in-java
 ├── src/
 |   ├── com/glim
 |   |   ├── Main.java
@@ -23,3 +24,4 @@ StarTwi/Tic-Tac-Toe-game-in-Java
 |   ├── README.md
 |   ├── .gitignore
 |   ├── Contribute.md
+```
