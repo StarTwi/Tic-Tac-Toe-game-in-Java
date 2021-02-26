@@ -1,0 +1,16 @@
+Project Name:
+- Tic-Tac-toe-game-in-Java
+Language:
+- JDK v13 or above
+- Apache Maven
+Description:
+- It is an awesome Tic-Tac-Toe game with basic features but note that there is no AI that plays against you here.
+Features:
+- Has the basic Tic-Tac-Toe
+- Good graphics(seriously?)
+- Made in java
+- Uses no 3rd party sourced plugins / modules
+- Uses default libraries
+Owners:
+- StarTwi
+Contributors:
